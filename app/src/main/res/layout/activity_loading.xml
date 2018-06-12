@@ -24,7 +24,7 @@
         android:text="Welcome to Sport Shop"
         android:textAlignment="center"
         android:textAllCaps="true"
-        android:textColor="@android:color/background_light"
+        android:textColor="#0074da"
         android:textSize="30sp"
         android:textStyle="bold|italic"
 
